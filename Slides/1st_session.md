@@ -4,14 +4,7 @@ author: Christian Dudel
 date: September 6, 2022
 output: beamer_presentation
 ---
-  
-# Materials
 
-Materials will be available from GitHub, also mirrored on OSF:
-  
-- https://github.com/christiandudel/EDSD2022
-- https://osf.io/s9pdc/
-  
 # What will be covered in this course?
   
 - Software: R (and RStudio)
@@ -25,6 +18,14 @@ At the end of this course...
 
 - ...you understand basic concepts of R
 - ...you can do a basic analysis in R
+
+# Materials
+
+Materials will be available from GitHub, also mirrored on OSF:
+  
+- https://github.com/christiandudel/EDSD2022
+- https://osf.io/s9pdc/
+
 
 # Prerequisites
 
