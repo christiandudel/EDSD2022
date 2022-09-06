@@ -35,6 +35,7 @@ All sessions will be held via Zoom (https://zoom.us/), invite via email.
 Books:
 
 * Wickham, Grolemund: R for Data Science. https://r4ds.had.co.nz/
+* Wickham: Advanced R. https://adv-r.hadley.nz/
 * Healy: Data Visualization. https://socviz.co/ 
 * Hernan, Robins: Causal Inference. https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/
 * Hastie, Tibshirani, Friedman: Elements of Statistical Learning. https://web.stanford.edu/~hastie/ElemStatLearn/ 
