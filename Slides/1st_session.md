@@ -73,7 +73,7 @@ September 30 (Fri), 14:00-16:00 (CEST)
 
 # (Voluntary) exercises
 
-- For each session, there will be some voluntary exercises to solve
+- For some sessions, there will be some voluntary exercises to solve
 - Solutions will be available online (GitHub/OSF)
 - These voluntary exercises have to be distinguished from the (mandatory!) assignment
 
