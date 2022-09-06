@@ -51,11 +51,11 @@
 
 ### Arguments of functions ##########################################
 
-  args(log)
-  log(2,base=2)  
   log(x=2,base=2)
+  log(2,base=2)  
   # Generally: foo(arg1,arg2,arg3,...)
-  log(2,5) # arguments get assigned in order of definition: x, base
+  log(2,5) # arguments get assigned in order of definition: x=2, base=5
+  log(5,2) # different from previous example as x=5,base=2
 
 
 ### Spacing #########################################################
