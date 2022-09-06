@@ -160,6 +160,6 @@ use two or more!
 
 # What do you need to get started?
 
-- R: https://cran.r-project.org/
+- R: https://cloud.r-project.org/
 - R-Studio: https://www.rstudio.com/
   
