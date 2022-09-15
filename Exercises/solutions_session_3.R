@@ -29,3 +29,10 @@
           scale_x_discrete(limits=c("White","Black",
                               "Other"))
   plot
+
+# Basic base R barplot
+  
+  tab <- table(birthwt$race)
+  barplot(tab,
+          names.arg=c("White","Black","Other"))  
+  
