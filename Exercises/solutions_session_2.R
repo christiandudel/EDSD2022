@@ -15,4 +15,6 @@ tab <- table(experiment$race,
 # Turn into relative proportions (row-wise)
 prop.table(tab,1)
 
-# Whites are 50% more likely to receive a callback than Blacks
+# Direct comparison:
+prop.table(tab,1)[2,2]/prop.table(tab,1)[1,2]
+# => Whites are 50% more likely to receive a callback than Blacks
