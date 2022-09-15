@@ -10,7 +10,7 @@
   
   data(birthwt)
 
-# Create basic barplot of subjective health
+# Create basic barplot 
   
   plot <- ggplot(data=birthwt,
                  mapping=aes(race))+
