@@ -62,8 +62,10 @@
   # Load library
   library(HMDHFDplus)
   # Gets data from the HMD: https://www.mortality.org/
+  # Note that you need to register with the old version of HMD:
+  # https://former.mortality.org/
   
-  # Set username and password
+  # Set username and password as used for old HMD
   # us <- "username"
   # pw <- "password"
   
